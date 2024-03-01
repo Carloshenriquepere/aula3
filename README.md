@@ -60,4 +60,3 @@ Certifique-se de não usar senhas padrão em ambientes de produção.
 Notas
 Este é um ambiente de desenvolvimento e demonstração. Não é adequado para produção sem modificações adequadas.
 Certifique-se de fazer backup dos dados importantes, especialmente se estiver usando este ambiente para desenvolvimento ou teste.
-Sinta-se à vontade para adicionar mais informações ou personalizar o README conforme necessário!
